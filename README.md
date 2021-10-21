@@ -27,10 +27,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rajat-ranjan24/"> 
-    <img src="https://img.shields.io/badge/-A-4d79ff?style=for-the-badge">
-    <img src="https://img.shields.io/badge/-MERN-5457ff?style=for-the-badge">
-    <img src="https://img.shields.io/badge/-and_an-7f54ff?style=for-the-badge">
-    <img src="https://img.shields.io/badge/-Open_Source_Enthusiast-902eff?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-Walk-4d79ff?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-With-5457ff?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-Code-7f54ff?style=for-the-badge">
   </a>
 </p>
 
